@@ -1,3 +1,6 @@
+console.log("Env: ", import.meta.env.VITE_GITHUB_TOKEN);
+
+
 const searchGithub = async () => {
   try {
     const start = Math.floor(Math.random() * 100000000) + 1;
@@ -34,9 +37,11 @@ const searchGithubUser = async (username: string) => {
     if (!response.ok) {
       throw new Error('invalid API response, check the network tab');
     }
+    // 
+    console.log('Data:', data);
     return data;
   } catch (err) {
-    // console.log('an error occurred', err);
+    console.log('an error occurred', err);
     return {};
   }
 };
