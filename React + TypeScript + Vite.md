@@ -15,7 +15,6 @@ If you're developing a production application, we recommend updating the configu
 
 ```js
 export default {
-  // other rules...
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
