@@ -133,4 +133,4 @@ This project is open source and available under the MIT License.
 
 - [**Portfolio**](https://alex-menendez.onrender.com/)
 - [**GitHub**:](https://github.com/alexis-menendez) alexis-menendez
-- [**Email**:](https://alex-menendez.onrender.com/contact) alexis.menendez@austincc.edu
+- [**Email**:](https://alex-menendez.onrender.com/contact) `alexis.menendez@austincc.edu`
