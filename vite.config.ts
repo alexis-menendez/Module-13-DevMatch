@@ -20,14 +20,12 @@ export default defineConfig({
     allowedHosts: [
       'devmatch.onrender.com',
       'devmatch-u4a6.onrender.com',
-      'peoples.onrender.com',
     ],
   },
   preview: {
     allowedHosts: [
       'devmatch.onrender.com',
       'devmatch-u4a6.onrender.com',
-      'peoples.onrender.com',
     ],
   },
 });
