@@ -83,9 +83,9 @@ npm run dev
 
 ## Screenshots
 
-![homepage-screenshot](https://github.com/yourusername/devmatch/assets/home.png)
-![searchpage-screenshot](https://github.com/yourusername/devmatch/assets/search.png)
-![homepage-savedpage](https://github.com/yourusername/devmatch/assets/saved.png)
+![homepage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/assets/home.png)
+![searchpage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/assets/search.png)
+![homepage-savedpage](https://github.com/alexis-menendez/Module-13-DevMatch/assets/saved.png)
 
 ---
 
