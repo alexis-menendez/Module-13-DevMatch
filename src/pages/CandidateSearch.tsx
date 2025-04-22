@@ -31,7 +31,7 @@ const CandidateSearch = () => {
       return;
     }
 
-    setCandidates(data); // keep this
+    setCandidates(data); 
     const randomCandidate = data[Math.floor(Math.random() * data.length)];
     const candidateDetails = await searchGithubUser(randomCandidate.login);
     setSingleCandidate(candidateDetails);

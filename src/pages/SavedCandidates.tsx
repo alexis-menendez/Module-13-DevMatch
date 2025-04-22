@@ -46,7 +46,16 @@ const SavedCandidates = () => {
                     height="50" 
                   />
                 </td>
-                <td>{candidate.name || candidate.login}</td>
+                <td>
+                  <a 
+                    href={candidate.html_url} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    style={{ color: '#4cc6c6', textDecoration: 'underline' }}
+                  >
+                    {candidate.name || candidate.login}
+                  </a>
+                </td>
                 <td>{candidate.location || 'Unknown'}</td>
                 <td>{candidate.email || 'N/A'}</td>
                 <td>{candidate.company || 'N/A'}</td>

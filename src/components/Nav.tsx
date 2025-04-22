@@ -15,8 +15,13 @@
            </NavLink>
          </li>
          <li className="nav-item">
+           <NavLink to="/CandidateSearch" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
+             Search
+           </NavLink>
+         </li>
+         <li className="nav-item">
            <NavLink to="/SavedCandidates" className={({ isActive }) => `nav-link ${isActive ? "active" : ""}`}>
-             Potential Candidates
+             Saved
            </NavLink>
          </li>
        </ul>
