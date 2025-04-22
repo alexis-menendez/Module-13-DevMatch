@@ -124,7 +124,7 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-Alex Menendez – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
+[Alex Menendez](https://github.com/alexis-menendez) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
 
-- Github:
-- Email: 
+- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+- **Email**: alexis.menendez@austincc.edu
