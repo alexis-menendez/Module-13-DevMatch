@@ -83,9 +83,9 @@ npm run dev
 
 ## Screenshots
 
-![homepage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/assets/home.png)
-![searchpage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/assets/search.png)
-![homepage-savedpage](https://github.com/alexis-menendez/Module-13-DevMatch/assets/saved.png)
+![homepage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/Assets/home.png)
+![searchpage-screenshot](https://github.com/alexis-menendez/Module-13-DevMatch/Assets/search.png)
+![homepage-savedpage](https://github.com/alexis-menendez/Module-13-DevMatch/Assets/saved.png)
 
 ---
 
