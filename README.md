@@ -1,7 +1,5 @@
 # DevMatch
 
-![devmatch-screenshot](https://github.com/yourusername/devmatch/assets/preview.png)
-
 ## **Description**
 
 **DevMatch** is a responsive React app that helps users discover talented developers on GitHub and build a shortlist of potential candidates. With a sleek, simplified UI and clear actions, DevMatch makes it easy to explore random profiles and save standout developers—all backed by real GitHub data.
@@ -50,22 +48,27 @@ You can access the app live here. To run the app locally:
 ```bash
 git clone https://github.com/yourusername/devmatch.git
 cd devmatch
+```
 
 **2. Install Dependencies**
 
 ```bash
 npm install
+```
  
 **3. Add Your GitHub Token**
 
 Create a .env file in the root of the project with the following:
+
 ```env
 VITE_GITHUB_TOKEN=your_personal_access_token
+```
 
 **4. Start the Dev Server**
 
 ```bash
 npm run dev
+```
 
 ---
 
@@ -80,7 +83,9 @@ npm run dev
 
 ## Screenshots
 
-COMING SOON: Screenshots of the homepage, candidate search interface, and saved candidates view.
+![homepage-screenshot](https://github.com/yourusername/devmatch/assets/preview.png)
+![searchpage-screenshot](https://github.com/yourusername/devmatch/assets/preview.png)
+![homepage-savedpage](https://github.com/yourusername/devmatch/assets/preview.png)
 
 ---
 
