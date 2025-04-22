@@ -41,7 +41,7 @@ Designed for ease of use and practical candidate screening, DevMatch is ideal fo
 
 ## Installation
 
-You can access the live app [here](https://devmatch-u4a6.onrender.com). To run the app locally:
+You can access the live app [here](https://devmatch-u4a6.onrender.com/). To run the app locally:
 
 **1. Clone the Repository**
 
@@ -73,7 +73,7 @@ npm run dev
 ---
 
 ## Usage
-1. Launch the app through [localhost](http://localhost:3000) or at follow this link for the [live deployment](https://devmatch-u4a6.onrender.com).
+1. Launch the app through [localhost](http://localhost:3000) or at follow this link for the [live deployment](https://devmatch-u4a6.onrender.com/).
 2. Navigate to Search to begin browsing developers.
 3. Use the + button to save a developer and the − button to skip.
 4. Go to the Saved tab to view your shortlist.
@@ -99,7 +99,7 @@ npm run dev
 
 ## Live Demo
 
-You can access the live version of the app here: [DevMatch Live](https://devmatch.onrender.com/)
+You can access the live version of the app here: [DevMatch Live](https://devmatch-u4a6.onrender.com/)
 
 ---
 
