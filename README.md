@@ -129,7 +129,7 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-[### **Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
+### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
 
 - [**Portfolio**](https://alex-menendez.onrender.com/)
 - **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
