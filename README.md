@@ -93,7 +93,7 @@ npm run dev
 
 ## Walkthrough Video
 
-[DevMatch Walkthrough](https://app.screencastify.com/v3/watch/wiVgzVRKIoAq9boSQlmS)
+[DevMatch Walkthrough](https://drive.google.com/file/d/1fGSTZHCKIwvNWN3GSOGUw6fkgYGoC7iZ/view?usp=sharing)
 
 ---
 
