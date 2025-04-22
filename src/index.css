@@ -64,6 +64,14 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.button-group {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #001405;                  /*  Very Dark Green */
