@@ -83,9 +83,9 @@ npm run dev
 
 ## Screenshots
 
-![homepage-screenshot](https://github.com/yourusername/devmatch/assets/preview.png)
-![searchpage-screenshot](https://github.com/yourusername/devmatch/assets/preview.png)
-![homepage-savedpage](https://github.com/yourusername/devmatch/assets/preview.png)
+![homepage-screenshot](https://github.com/yourusername/devmatch/assets/home.png)
+![searchpage-screenshot](https://github.com/yourusername/devmatch/assets/search.png)
+![homepage-savedpage](https://github.com/yourusername/devmatch/assets/saved.png)
 
 ---
 
@@ -134,3 +134,6 @@ This project is open source and available under the MIT License.
 - [**Portfolio**](https://alex-menendez.onrender.com/)
 - **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
 - **Email**: [alexis.menendez@austincc.edu](https://alex-menendez.onrender.com/contact)
+
+---
+
