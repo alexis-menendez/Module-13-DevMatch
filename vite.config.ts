@@ -17,8 +17,17 @@ export default defineConfig({
   server: {
     host: '0.0.0.0', 
     port: 3000, // dev only, used locally
+    allowedHosts: [
+      'devmatch.onrender.com',
+      'devmatch-u4a6.onrender.com',
+      'peoples.onrender.com',
+    ],
   },
   preview: {
-    allowedHosts: ['peoples.onrender.com'], 
+    allowedHosts: [
+      'devmatch.onrender.com',
+      'devmatch-u4a6.onrender.com',
+      'peoples.onrender.com',
+    ],
   },
 });
